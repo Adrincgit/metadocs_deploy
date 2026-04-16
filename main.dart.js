@@ -109198,7 +109198,7 @@ A.PF.prototype={
 a8(){return new A.ago()}}
 A.ago.prototype={
 J(a){var s=null,r=A.V(a).ax.a===B.a1?B.bi:B.bh,q=r.cx,p=t.p
-return A.ac(A.b([A.hZ(A.al(8),A.b7I("assets/images/avatares/carlos.png",new A.aY7(r),B.rv,36,36),B.b1),B.aR,A.aD(A.b([A.z("Carlos Mendoza",s,s,s,s,A.G().$4$color$fontSize$fontWeight$letterSpacing(q,11,B.Y,0.4).kE(B.C),s,s),A.z("Administrador",s,s,s,s,A.G().$3$color$fontSize$fontWeight(r.cy,10,B.e),s,s)],p),B.w,B.cZ,B.h),B.du,A.bg(B.it,q,s,16)],p),B.o,B.f,B.h,0)}}
+return A.ac(A.b([A.hZ(A.al(8),A.b7I("assets/images/avatares/Carlos.png",new A.aY7(r),B.rv,36,36),B.b1),B.aR,A.aD(A.b([A.z("Carlos Mendoza",s,s,s,s,A.G().$4$color$fontSize$fontWeight$letterSpacing(q,11,B.Y,0.4).kE(B.C),s,s),A.z("Administrador",s,s,s,s,A.G().$3$color$fontSize$fontWeight(r.cy,10,B.e),s,s)],p),B.w,B.cZ,B.h),B.du,A.bg(B.it,q,s,16)],p),B.o,B.f,B.h,0)}}
 A.aY7.prototype={
 $3(a,b,c){var s=null
 return A.az(s,B.PR,B.p,s,s,new A.b_(B.r,s,s,A.al(8),s,s,B.A),s,36,s,s,s,s,s,36)},
